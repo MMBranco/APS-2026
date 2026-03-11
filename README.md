@@ -53,6 +53,40 @@ Focada em entrega rápida e adaptação.
 
 ### 📊 Comparativo de Técnicas
 
+
+
+### 📝 Descrição das Técnicas de Elicitação
+
+#### 1. Entrevista
+Consiste na coleta direta com stakeholders. Pode ser **Estruturada** (roteiro fixo) ou **Não Estruturada** (perguntas livres). 
+* **Fases:** Preparação, Condução (escuta ativa) e Confirmação (validação das notas).
+
+#### 2. Questionário
+Instrumento com perguntas pré-elaboradas. Útil quando o grupo de usuários é grande ou está separado geograficamente. Permite respostas no tempo do usuário, mas oferece baixa interação.
+
+#### 3. Observação
+Técnica para quando o usuário não consegue descrever suas ações. 
+* **Passiva:** Analista apenas observa sem interferir.
+* **Participativa:** Analista participa das tarefas. 
+* **Risco:** Efeito de interferência (mudança de comportamento do observado).
+
+#### 4. Análise de Documentos
+Extração de requisitos através de manuais, formulários, relatórios e editais (licitações). Essencial para identificar fluxos hierárquicos (organogramas) e conformidade legal.
+
+#### 5. Brainstorming
+Geração livre de ideias. Regras: definir o problema antes, gerar sem julgamento e avaliar depois. Útil para identificar problemas que valem a pena ser solucionados.
+
+#### 6. JAD (Joint Application Development)
+Sessões de trabalho estruturadas entre usuários e analistas para buscar decisões por consenso em pouco tempo. Substitui entrevistas individuais com maior precisão.
+
+#### 7. Prototipagem
+Criação de versões iniciais (baixa ou alta fidelidade). Serve para descobrir e visualizar requisitos de interface antes do desenvolvimento definitivo.
+
+#### 8. Estudo Etnográfico
+Método imersivo da antropologia. Busca entender "requisitos ocultos" e **Workarounds (gambiarras)** que os usuários criam para lidar com sistemas deficientes.
+
+---
+
 | Técnica | Quando Usar | Vantagens | Desafios/Riscos |
 | :--- | :--- | :--- | :--- |
 | **Entrevista** | Compreender necessidades profundas | Detalhamento e contato direto | Pode ser demorada; exige escuta ativa |
