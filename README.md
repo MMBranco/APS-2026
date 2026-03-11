@@ -4,6 +4,8 @@ Este repositório contém os registros das atividades e estudos realizados em sa
 
 
 **Equipe:** Emilly Silva, Lethycia Cornélio, Mateus Branco, Rafael Grendene e Tadeu Henrique.  
+
+
 **Líder de Projeto:** Mateus Branco.
 ---
 
