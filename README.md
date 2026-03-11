@@ -1,6 +1,8 @@
 # 📓 Diário de Aula - Engenharia de Software
 
 Este repositório contém os registros das atividades e estudos realizados em sala.
+
+
 **Equipe:** Emilly Silva, Lethycia Cornélio, Mateus Branco, Rafael Grendene e Tadeu Henrique.  
 **Líder de Projeto:** Mateus Branco.
 ---
