@@ -53,7 +53,48 @@ Focada em entrega rápida e adaptação.
 
 ### 📊 Comparativo de Técnicas
 
+### 1. Entrevista 
+* Entrevista estruturada, semi-estruturada e não estruturada
+* Como elaborar um roteiro de perguntas
+* Diferença entre perguntas abertas e fechadas
+* Boas práticas: escuta ativa, anotações, registro
 
+### 2. Questionário
+* Quando é mais vantajoso que a entrevista
+* Tipos de perguntas (múltipla escolha, escala Likert, aberta)
+* Cuidados na elaboração para evitar vieses
+
+### 3. Observação
+* Observação passiva vs. participativa
+* Como registrar o que foi observado (formulários, gravações, notas)
+* Risco de interferência no comportamento do observado
+
+### 4. Análise de Documentos
+* Quais documentos podem ser analisados (manuais, formulários, relatórios, regulamentos)
+* Como extrair requisitos a partir de documentos existentes
+* Uso de licitações e editais como fonte de requisitos
+
+### 5. Brainstorming
+* Dinâmica e regras básicas
+* Papel do facilitador
+* Como consolidar e filtrar as ideias geradas
+
+### 6. JAD — Joint Application Development
+* O que é uma sessão JAD
+* Participantes: facilitador, usuários, analistas, observadores
+* Diferença para a entrevista tradicional
+
+### 7. Prototipagem
+* Protótipo de baixa vs. alta fidelidade
+* Como usar protótipos para elicitar requisitos
+* Ferramentas comuns (Figma, draw.io, papel)
+
+### 8. Estudo Etnográfico
+* O que é e de onde vem
+* Como se aplica em análise de sistemas
+* Diferença para a observação comum
+
+---
 
 ### 📝 Descrição das Técnicas de Elicitação
 
