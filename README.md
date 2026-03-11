@@ -1,16 +1,14 @@
 # 📓 Diário de Aula - Engenharia de Software
 
 Este repositório contém os registros das atividades e estudos realizados em sala.
-
+**Equipe:** Emilly Silva, Lethycia Cornélio, Mateus Branco, Rafael Grendene e Tadeu Henrique.  
+**Líder de Projeto:** Mateus Branco.
 ---
 
 ## 📅 (11/02) Atividade 01 — Formação / Ecossistema
 
 ### 🚀 Fluxo de Trabalho
 `Planejamento` > `Verificação` > `Estruturação` > `Execução` > `Validação` > `Implantação`
-
-**Equipe:** Emilly Silva, Lethycia Cornélio, Mateus Branco, Rafael Grendene e Tadeu Henrique.  
-**Líder de Projeto:** Mateus Branco.
 
 > **Nota:** Validação x Verificação = Se eu compreendi corretamente X Se eu fiz corretamente. A melhor forma de validar e verificar é prototipar!
 
