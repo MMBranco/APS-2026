@@ -1,136 +1,71 @@
-DIÁRIO DE AULA
+# 📓 Diário de Aula - Engenharia de Software
 
-Aqui estão os registros das três atividades formatados para o seu Diário de Aula, organizados por data e mantendo a integridade total do conteúdo original.
+Este repositório contém os registros das atividades e estudos realizados em sala.
 
-📅 Atividade 01 — 11/02/2026
-Tema: Formação / Ecossistema
-Fluxo de Trabalho:
-Planejamento > Verificação > Estruturação > Execução > Validação > Implantação.
+---
 
-Equipe:
+## 📅 (11/02) Atividade 01 — Formação / Ecossistema
 
-Emilly Silva, Lethycia Cornélio, Mateus Branco, Rafael Grendene e Tadeu Henrique.
+### 🚀 Fluxo de Trabalho
+`Planejamento` > `Verificação` > `Estruturação` > `Execução` > `Validação` > `Implantação`
 
-Líder de Projeto: Mateus Branco.
+**Equipe:** Emilly Silva, Lethycia Cornélio, Mateus Branco, Rafael Grendene e Tadeu Henrique.  
+**Líder de Projeto:** Mateus Branco.
 
-Conceitos Chave:
+> **Nota:** Validação x Verificação = Se eu compreendi corretamente X Se eu fiz corretamente. A melhor forma de validar e verificar é prototipar!
 
-Validação x Verificação: "Se eu compreendi corretamente" X "Se eu fiz corretamente".
+### 🔍 Pesquisa e Discussão
+* **O que as empresas buscam?** Hard Skills (técnicas) e Soft Skills (comportamentais como proatividade e trabalho em equipe).
+* **APS:** Fundamental para entender o "o quê" (análise) e o "como" (projeto) deve ser feito.
+* **Skills:** Soft skills são consideradas mais essenciais para a colaboração em ecossistemas organizacionais.
 
-A melhor forma de validar e verificar é prototipar!
+### 🤖 Uso de IA
+* **Pode usar?** Sim, como auxílio para eficiência e problemas lógicos.
+* **Limites:** Não usar como fonte única; cuidado com ética, plágio e informações infundadas. Responsabilidade total do usuário.
 
-Pesquisa e Discussão em Equipe
-O que as empresas buscam em um profissional?
+### 🏢 Trabalho em Projetos
+* **Equipes:** Trabalho em grupos (mesas) mantendo protagonismo individual.
+* **Teoria x Prática:** Prática deve ser sempre baseada na teoria sólida.
+* **Entregas:** Avaliações e entregas parciais constantes são melhores para evolução e correção de rumo.
 
-R: Profissionais com habilidades técnicas (hard skills) como, conhecimento na área e domínio em tecnologias relevantes e/ou, profissionais com habilidades comportamentais (soft skills), por exemplo a proatividade, trabalho em equipe e controle em situações emocionais.
+---
 
-O que seria APS? Qual atividade seria a primordial?
+## 📅 (25/02) Atividade 02 — Ciclo de Vida e Modelos (SDLC)
 
-R: Uma etapa fundamental no desenvolvimento de software, preenchendo o espaço entre negócios e soluções tecnológicas, onde a análise faça entender o que deve ser feito e, o projeto da forma que será feita. Tendo em vista primordialmente, a análise, execução e validação, fazendo com que os problemas sejam mapeados e o software seja entendido.
+### 🌊 Modelos Tradicionais
+* **Cascata (Waterfall):** Sequencial e linear. Conclui uma fase para iniciar a próxima. Simples, porém pouco flexível e sujeito a atrasos por falta de feedback.
+* **Espiral:** Iterativo (ciclos). Focado em análise de riscos e sucessivas voltas até o atendimento total dos requisitos.
+* **Incremental:** Entrega em partes funcionais para diminuir retrabalho.
 
-Soft skills ou habilidades técnicas?
+### ⚡ Metodologia Ágil
+Focada em entrega rápida e adaptação.
+1. **Ideação:** Definição de escopo e regras de negócio (PO).
+2. **Desenvolvimento:** Design, arquitetura e codificação.
+3. **Testes:** Equipe de QA identifica problemas precocemente.
+4. **Implantação:** Disponibilidade em produção.
+5. **Operação:** Manutenção e monitoramento.
 
-R: Soft skills são habilidades comportamentais e socioemocionais que influenciam a forma como uma pessoa se comunica, trabalha em equipe e lida com desafios. Envolvem competências como empatia, liderança, adaptabilidade, criatividade e resolução de problemas, sendo essenciais para um bom relacionamento interpessoal e desempenho profissional.
+---
 
-Habilidades técnicas (Hard Skills), por sua vez, são características específicas e aprendidas, adquiridas por meio de cursos, estudos ou experiências práticas. Elas envolvem conhecimentos e competências relacionadas a uma área determinada, como o domínio de ferramentas, métodos ou tecnologias, são muito importantes para comprovar um bom desempenho profissional.
+## 📅 (04/03) Atividade 03 — Levantamento de Dados
 
-Embora ambos os aspectos sejam indispensáveis em um contexto profissional, soft skills são definitivamente mais importantes para um ecossistema organizacional, visto que competências como comunicação, habilidade de compreensão e convivência são exemplos de itens essenciais para que haja colaboração entre indivíduos.
+### 📊 Comparativo de Técnicas
 
-Ecossistema (rede de ações pessoais): o que é?
+| Técnica | Quando Usar | Vantagens | Desafios/Riscos |
+| :--- | :--- | :--- | :--- |
+| **Entrevista** | Compreender necessidades profundas | Detalhamento e contato direto | Pode ser demorada; exige escuta ativa |
+| **Questionário** | Grupos grandes/distantes | Baixo custo e rapidez | Respostas superficiais; sem interação |
+| **JAD** | Projetos de médio/longo prazo | Decisões por consenso; rápido | Difícil manter foco em grandes grupos |
+| **Brainstorming** | Início do projeto/ideação | Alta carga de ideias; visões diferentes | Requer mediação; risco de desvio do foco |
+| **Prototipagem** | Requisitos incertos | Feedback visual imediato | Criar expectativas irreais no cliente |
+| **Observação** | Ações difíceis de descrever | Vê a realidade do processo | Interferência no comportamento do usuário |
+| **Análise Doc.** | Sistemas existentes/Licitações | Base legal e técnica sólida | Documentos podem estar defasados |
+| **Etnografia** | Entender cultura e "gambiarras" | Descobre requisitos ocultos | Extremamente imersivo e demorado |
 
-R: Um ecossistema de rede de ações pessoais é um conjunto dinâmico e funcional com base na interação e interdependência entre comunidades, ambientes e indivíduos. Não se trata apenas de ter contatos (networking) ou convivência, mas de como esses elementos trocam conhecimentos e experiências, geram valor mútuo e impulsionam os objetivos em um coletivo.
+### 📝 Boas Práticas e Notas (Rafael Grendene)
+* **Objetivo:** Entregar resultado de valor que seja funcional e atenda a expectativa.
+* **Checklist SDLC:** Levantamento > Análise > Projeto > Codificação > Teste > Implementação > Manutenção.
+* **Próximos Passos:** * [ ] 11/03: Plano de levantamento na Biblioteca.
+  * [ ] 18/03: Estudo de caso prático.
 
-Uso de IA
-Pode usar?
-
-R: Sim, são ferramentas versáteis que podem auxiliar em vários contextos, podem aumentar a eficiência em atividades simples e repetitivas, resolver pequenos problemas lógicos, e entre outros.
-
-Quais os limites? E qual é a sua responsabilidade?
-
-R: Não utilizar como fonte primordial de conhecimento e sim como apenas um auxílio básico de tarefas simples, pois podem oferecer informações infundadas e não contribuem necessariamente para o aprendizado. Além de questões éticas, envolvendo uso de imagens, plágios e etc. A responsabilidade do usuário é de não ultrapassar os limites pré estabelecidos dependendo do contexto e ter plena consciência da utilização.
-
-Trabalho em Projetos nas Empresas
-Equipes: As empresas trabalham em projetos por meio de mesa de grupos ao invés de simplesmente dividir o trabalho em partes. Dessa forma, cada indivíduo mantém seu protagonismo e aprendizado, mas ainda conta com o apoio dos indivíduos ao redor.
-
-Prática ou teoria? Prática e teoria depende do contexto de cada empresa, contudo, vale lembrar que a prática deve ser baseada na teoria. Realizando o trabalho prático necessário e aprendendo a base teórica para a solidificação da capacitação.
-
-Avaliação: Avaliações constantes num projeto contínuo tem mais valor devido a um constante crescimento.
-
-Entregas: Entregas parciais constantes mantém um fluxo de comunicação para as resoluções dos problemas, se adaptando em tempo e real e analisando o progresso.
-
-📅 Atividade 02 — 25/02/2026
-Tema: Ciclo de Vida do Desenvolvimento de Software (SDLC)
-Modelos Tradicionais
-MODELO CASCATA
-
-Processo baseado em fases sequenciais e lineares distintas. É necessário que a fase seja concluída antes de avançar para a próxima.
-
-Etapas: Levantamento de requisitos, análise, projeto, implementação, teste, implantação e manutenção/suporte.
-
-Vantagens: Simplicidade (indicado para projetos pequenos).
-
-Desvantagens: Falta de flexibilidade, atrasos, custos elevados em mudanças e falta de feedbacks imediatos.
-
-MODELO ESPIRAL
-
-Evolução do modelo incremental, representado por uma espiral onde cada ciclo percorre etapas fundamentais.
-
-Fases: 1. Estruturação (Planejamento e Análise de Riscos)
-2. Execução (Desenvolvimento e Validação)
-3. Finalização (Avaliação e Próximos Passos)
-
-O ciclo se repete até que o produto atenda plenamente às expectativas.
-
-INCREMENTAL
-
-(Em produção/A completar)
-
-Metodologias Ágeis
-Processo focado na entrega rápida, colaboração e adaptação.
-
-Ideação: Definição de escopo, tempo e custo (PO).
-
-Desenvolvimento: Construção da versão inicial (Design, arquitetura, código).
-
-Testes: Atuação da equipe de QA para identificar problemas precocemente.
-
-Implantação: Disponibilidade em produção.
-
-Operação: Manutenção, monitoramento e aprimoramentos.
-
-Metodologias Auxiliares
-Diferença Kanban x Scrum: (Não finalizado)
-
-📅 Atividade 03 — 04/03/2026
-Tema: Técnicas de Levantamento de Dados
-Divisão de Pesquisa:
-
-Mateus: Estudo Etnográfico | Tadeu: Análise de Documentos | Rafael: Brainstorming e JAD | Lethycia: Entrevista e Observação | Emilly: Questionário e Prototipagem.
-
-Principais Técnicas Pesquisadas
-JAD (Joint Application Development): Método interativo para extrair informações em reuniões estruturadas buscando consenso. Envolve líderes, usuários e analistas.
-
-Brainstorming: Geração livre de ideias sem julgamento inicial. Útil para identificar problemas e múltiplas soluções.
-
-Questionário: Ideal para grandes grupos ou dispersão geográfica. Barato, mas com baixa interação.
-
-Prototipação: Versão inicial para coletar feedback. Ajuda na visualização de requisitos quando há incerteza.
-
-Entrevista: Estruturada ou não estruturada. Essencial o uso de Escuta Ativa. Dividida em Preparação, Condução e Confirmação.
-
-Observação: Passiva ou Participativa. Útil quando usuários não conseguem descrever ações. Risco de "Efeito de Interferência" (mudar o comportamento ao ser visto).
-
-Análise de Documentos: Uso de manuais, formulários, relatórios e editais (licitações) para extrair requisitos explícitos e restrições.
-
-Estudo Etnográfico: Método imersivo para entender "requisitos ocultos", gambiarras (workarounds) e o contexto real do ambiente.
-
-Observações Finais (Rafael)
-SDLC (7 Fases): Levantamento, Análise, Projeto/Design, Codificação, Teste, Implementação e Manutenção.
-
-Princípio de Valor: Essencial validar (entender o que fazer) e verificar (fazer corretamente).
-
-Próximos Passos:
-
-11/03: Plano de levantamento de requisitos (Biblioteca).
-
-18/03: Estudo de caso prático (Biblioteca).
+---
