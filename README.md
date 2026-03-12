@@ -146,3 +146,14 @@ Método imersivo da antropologia. Busca entender "requisitos ocultos" e **Workar
   * [ ] 18/03: Estudo de caso prático.
 
 ---
+
+## 📅 (11/03) Atividade 04 — Levantamento de Requisitos
+
+Metodologias definidas para serem utilizadas durante o levantamento de requisitos:
+
+* **Questionário:** Levantadas dúvidas de senso comum à respeito das regras de negócio (RN) e requisitos não funcionais (RNF) do software.
+* **Análise de Documentos:** Levantados documentos para solicitar ao cliente, visando a análise dos documentos para o desenvolvimento do software.. 
+* **Entrevista:** Entrevista (se possível for) com o cliente, visando compreender estrutura, tirar dúvidas, e realizar um diálogo cara a cara para melhor compreensão do escopo do projeto.
+
+
+
