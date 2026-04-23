@@ -23,4 +23,11 @@ Este repositório contém os registros das atividades e estudos realizados em sa
 
 ---
 
-AAAAAAA
+
+### Autoavaliação
+
+| Pergunta | Resposta |
+| :--- | :--- |
+| **Quais foram as maiores dificuldades ao longo do trimestre?** | Adequação às metodologias adotadas em aula, como o bom uso dos questionamentos às IAs nas aulas de entrevista. |
+| **O que você aprendeu que não esperava aprender?** | A importância da validação constante de cada passo realizado ao longo do trabalho. |
+| **O que faria diferente se fosse recomeçar?** | Revisaria com mais cuidado cada uma das etapas do projeto, buscando frisar melhor possíveis lacunas, de modo que o projeto final se adequasse ainda mais ao escopo desejado. |
