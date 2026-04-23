@@ -155,5 +155,11 @@ Metodologias definidas para serem utilizadas durante o levantamento de requisito
 * **Análise de Documentos:** Levantados documentos para solicitar ao cliente, visando a análise dos documentos para o desenvolvimento do software.. 
 * **Entrevista:** Entrevista (se possível for) com o cliente, visando compreender estrutura, tirar dúvidas, e realizar um diálogo cara a cara para melhor compreensão do escopo do projeto.
 
+## 📅 (18/03) Atividade 05 — Entrevista Assincrona 
 
+* **Entrevista:** Realizada entrevista com as três funcionárias da biblioteca, onde foram realizadas perguntas gerais sobre o sistema por meio das informações reunidas até então.
+* Foram consideradas dúvidas referentes a cadastros, empréstimos, reservas, renovações, devoluções, penalidades, etc...
+* Por meio da sintese dos resultados obtidos, foram montadas as regras de negócio (RN) e requisitos não funcionais (RNF) do sistema.
+
+## 📅 (25/03) Atividade 06 — Entrevista Sincrona 
 
